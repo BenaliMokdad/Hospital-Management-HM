@@ -1,0 +1,2 @@
+# Hospital-Management-HM
+A dashboard that allows the admin to log in and add hospitals with their username/password , add medicaments , add insurance companies and finally add the medical acts , it also allows the entry manager of any hospital to login , manage patients (CRUD) , view all hospitals with their patients , add medical reports containing the patient informations and medical acts with their medicaments ( PS: for the medical report it's not 100% functional  i will update it soon ) 
